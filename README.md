@@ -1,11 +1,11 @@
 # Energy game
 
-*#EN*
+<br>*EN*<br>
 I developed this project with the technology of the game creation engine Unity to test my knowledge in web development with C #.
 Project is fully documented and following software development guidelines with agile methodology.
 
 
-*#PT*
+<br>*PT*<br>
 Desenvolvi esse projeto com a tecnologia da engine de criação de jogos Unity para testar meus conhecimentos em desenvolvimento web com C#.
 Projeto está todo documentado e seguindo as diretrizes de desenvolvimento de software com metodologia agil.
 
