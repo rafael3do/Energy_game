@@ -1,7 +1,7 @@
 # Energy game
 
 <br>*EN*<br>
-I developed this project with the technology of the game creation engine Unity to test my knowledge in web development with C #.
+I developed this project with the technology of the game creation engine Unity to test my knowledge in web development with C#.
 Project is fully documented and following software development guidelines with agile methodology.
 
 
