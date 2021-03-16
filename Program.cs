@@ -6,8 +6,7 @@ namespace Hello_world
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World.");//This is not a game
-            Console.ReadKey();
+            Console.WriteLine("Hello World.");//This is not a game          
         }
     }
 }
