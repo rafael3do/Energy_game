@@ -12,7 +12,7 @@ Projeto está todo documentado e seguindo as diretrizes de desenvolvimento de so
 [Alpha Test](https://rafael3do.itch.io/energy-game?secret=hT5pfEMavkOXBTbgcAPNjjEmN8).
 
 ![picture1](https://github.com/rafael3do/Energy_game/blob/main/Documentation/3-energy.png)
-old picture, new meu have 4 buttons
+
 ![picture2](https://github.com/rafael3do/Energy_game/blob/main/Documentation/2-energy.png)
 
 ![picture3](https://github.com/rafael3do/Energy_game/blob/main/Documentation/1-energy.png)
