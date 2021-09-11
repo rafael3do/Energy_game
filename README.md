@@ -12,7 +12,7 @@ Projeto está todo documentado e seguindo as diretrizes de desenvolvimento de so
 Comandso em jogo:
 Esc para sair do jogo e retornar ao menu principal.
 
-Play Game : [Alpha Test](https://rafael3do.itch.io/energy-game?secret=hT5pfEMavkOXBTbgcAPNjjEmN8).
+<b>Play Game<b> : [Alpha Test](https://rafael3do.itch.io/energy-game?secret=hT5pfEMavkOXBTbgcAPNjjEmN8).
 
 ![picture1](https://github.com/rafael3do/Energy_game/blob/main/Documentation/3-energy.png)
 
