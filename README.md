@@ -6,7 +6,7 @@ Project is fully documented and following software development guidelines with a
 Commands in game:
 Esc for exit game and return for main menu.
 
-<br>*PT*<br>
+<br>*PT-BR*<br>
 Desenvolvi esse projeto com a tecnologia da engine de criação de jogos Unity para testar meus conhecimentos em desenvolvimento web com C#.
 Projeto está todo documentado e seguindo as diretrizes de desenvolvimento de software com metodologia agil.
 Comandso em jogo:
