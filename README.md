@@ -21,4 +21,4 @@ Esc para sair do jogo e retornar ao menu principal.
 ![picture3](https://github.com/rafael3do/Energy_game/blob/main/Documentation/1-energy.png)
  
  <p>updates<p>
-![image](https://user-images.githubusercontent.com/18338341/154258452-0b9c8ccc-0b18-4f2e-a373-bea3bedff333.png)
+![picture4](https://user-images.githubusercontent.com/18338341/154258452-0b9c8ccc-0b18-4f2e-a373-bea3bedff333.png)
